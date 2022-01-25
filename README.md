@@ -4,14 +4,20 @@
 
 * Kotlin;
 * MVVM;
+  * View Model;
+  * View Binding;
 * Glide;
 * Retrofit;
-* Coroutines;
-* Navigation Component;
-* View Binding;
+  * Rest Api;
+  * Google Api;
+* Kotlin Coroutines;
+* Navigation Components;
 * Dagger Hilt;
-* REST API;
-* Room.
+* Koin;
+* Room;
+* UI/UX Design;
+* RxJava;
+* RxAndroid.
 
 
 ### My Google Play account: https://play.google.com/store/apps/dev?id=4649679776168531098
