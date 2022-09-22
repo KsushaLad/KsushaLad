@@ -10,6 +10,7 @@
 * Retrofit;
   * Rest Api;
   * Google Api;
+* Jetpack Compose;
 * Kotlin Coroutines;
 * Navigation Components;
 * Dagger Hilt;
